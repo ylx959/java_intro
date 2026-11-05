@@ -71,7 +71,7 @@ public class math_class {
 
         System.out.printf("The circumference is: %.1fcm\n", circumference);
         System.out.printf("The area is: %.1fcm²\n", area);
-        System.out.printf("The volume is: %.1fcm³\n", volume);
+        System.out.printf("The volume is: %.1fcm³\n", volume);//跟c 很像
 
         scanner.close();
     }
