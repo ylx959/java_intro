@@ -2,7 +2,7 @@ package tutorial;
 
 import java.util.Scanner;
 
-public class calculator {
+public class compound_calculator {
     public static void main(String[] args){
         //Compound interest calculator
 
